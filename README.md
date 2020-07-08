@@ -3,7 +3,7 @@
 # Email: jumurillo@chapman.edu
 # Econometrics (Econ 452)
 ## Econometric-Modeling
-## Empirical Research Study: Determining Assets Prices
+## Empirical Research Study: Determining What Drives Assets Returns
 
 ### Source Files:
 ### SourceCode.R 
